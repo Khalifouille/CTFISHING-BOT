@@ -1,6 +1,6 @@
 # FISHING BOT [ALTV] POUR LES FLEMMARDS
 
-Ce script Python automatise la saisie de texte dans le mod de jeu Grand Theft Auto V (GTA V), spécifiquement en ciblant le serveur AltV en utilisant l'exécutable altv-webengine.
+Ce script Python automatise la saisie de texte dans le mod de jeu Grand Theft Auto V (GTA V), spécifiquement en ciblant les serveurs AltV en utilisant l'exécutable altv-webengine.
 
 ## Fonctionnement
 
